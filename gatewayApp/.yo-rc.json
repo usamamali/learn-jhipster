@@ -1,0 +1,35 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.poc.gw"
+    },
+    "jhipsterVersion": "5.3.4",
+    "applicationType": "gateway",
+    "baseName": "gatewayApp",
+    "packageName": "com.poc.gw",
+    "packageFolder": "com/poc/gw",
+    "serverPort": "8077",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZjgzMTc1ZDVkZDY0MTVjOTIzOTk5ZGZlN2MxZGJkNWVmMWQzMDM0NDViZTk0OTQ3ZWEzZmVhNzBjYWY0MzIyYjZkZjFlNTFkYzQ3NGM3ZDZlYWY3NGY3Y2Y4MWQ0OWMzMjg5ZWE4N2NjMTFmMTM5ZmU0MzQ2MTBiNzAxMTc0ODQ=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber",
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": false
+  }
+}

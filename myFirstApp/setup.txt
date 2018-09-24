@@ -1,0 +1,6 @@
+run project eureka-server first for service discovery
+run docker
+create container from mongodb image and run it on port 27017
+create container from mongo-express and install it using command "docker run --link smongo:mongo -p 8081:8081 mongo-express"
+open application-dev.yml and change server port if conflicting with mongo or eureka
+run application using ./mvnw

@@ -1,0 +1,12 @@
+com/poc/micro1/web/rest/errors/ExceptionTranslatorTestController$TestDTO.class
+com/poc/micro1/config/WebConfigurerTestController.class
+com/poc/micro1/web/rest/TestUtil.class
+com/poc/micro1/config/WebConfigurerTest.class
+com/poc/micro1/web/rest/util/PaginationUtilUnitTest.class
+com/poc/micro1/web/rest/errors/ExceptionTranslatorTestController$TestResponseStatusException.class
+com/poc/micro1/web/rest/LogsResourceIntTest.class
+com/poc/micro1/web/rest/errors/ExceptionTranslatorIntTest.class
+com/poc/micro1/cucumber/CucumberTest.class
+com/poc/micro1/cucumber/stepdefs/StepDefs.class
+com/poc/micro1/web/rest/errors/ExceptionTranslatorTestController.class
+com/poc/micro1/web/rest/TestUtil$ZonedDateTimeMatcher.class

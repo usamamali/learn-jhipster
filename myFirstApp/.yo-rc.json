@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.poc.micro1",
+      "nativeLanguage": "ar-ly"
+    },
+    "jhipsterVersion": "5.3.4",
+    "applicationType": "microservice",
+    "baseName": "myFirstApp",
+    "packageName": "com.poc.micro1",
+    "packageFolder": "com/poc/micro1",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MmI2ZGExMTFiODU1NDI0MWRlYjBjMjJhNGQ5ZDIxYTA2YzdjZTVkMWJhYjBlZjFlNTMwMjdhNTM5YTg1NmM1OWU5ZDFlMGFhNzYzM2Q5ODNlZjFjZjZkNjdjZGE2OTI3OGJjMDA5NTVhYmY2YWI3NjgyNzNhZjQ2MmM5NTU3YWY=",
+    "enableTranslation": true,
+    "languages": [
+      "ar-ly"
+    ],
+    "testFrameworks": [
+      "gatling",
+      "cucumber"
+    ],
+    "jhiPrefix": "jhi",
+    "clientPackageManager": "npm",
+    "nativeLanguage": "ar-ly",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}

@@ -1,0 +1,9 @@
+/Users/usama/learning/JHipster/projects/myFirstApp/src/test/java/com/poc/micro1/config/WebConfigurerTest.java
+/Users/usama/learning/JHipster/projects/myFirstApp/src/test/java/com/poc/micro1/web/rest/TestUtil.java
+/Users/usama/learning/JHipster/projects/myFirstApp/src/test/java/com/poc/micro1/cucumber/CucumberTest.java
+/Users/usama/learning/JHipster/projects/myFirstApp/src/test/java/com/poc/micro1/cucumber/stepdefs/StepDefs.java
+/Users/usama/learning/JHipster/projects/myFirstApp/src/test/java/com/poc/micro1/web/rest/errors/ExceptionTranslatorIntTest.java
+/Users/usama/learning/JHipster/projects/myFirstApp/src/test/java/com/poc/micro1/config/WebConfigurerTestController.java
+/Users/usama/learning/JHipster/projects/myFirstApp/src/test/java/com/poc/micro1/web/rest/util/PaginationUtilUnitTest.java
+/Users/usama/learning/JHipster/projects/myFirstApp/src/test/java/com/poc/micro1/web/rest/errors/ExceptionTranslatorTestController.java
+/Users/usama/learning/JHipster/projects/myFirstApp/src/test/java/com/poc/micro1/web/rest/LogsResourceIntTest.java
